@@ -1,7 +1,7 @@
 package extbar
 
 func F1() string {
-	return "f1"
+	return "f1-v0.3.0"
 }
 
 func F2() (string, bool) {
