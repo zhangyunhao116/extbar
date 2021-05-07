@@ -1,5 +1,6 @@
 package extbar
 
+// F1 ...
 func F1() string {
 	return "f1-v0.3.0"
 }
